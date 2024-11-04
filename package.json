@@ -1,0 +1,26 @@
+{
+  "name": "spotify-recently",
+  "version": "1.0.0",
+  "description": "Cap nhat bai hat cua hieu dang nghe",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/du0ngtrunghieu/spotify-rec-song.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/du0ngtrunghieu/spotify-rec-song.git/issues"
+  },
+  "homepage": "https://github.com/du0ngtrunghieu/spotify-rec-song.git#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "lowdb": "^3.0.0",
+    "node-fetch": "^3.2.6"
+  }
+}
