@@ -15,11 +15,18 @@ jobs:
           envkey_CLIENT_ID: ${{ secrets.CLIENT_ID }}
           envkey_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           envkey_REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
-      - uses: actions/setup-node@v3
+      - uses: pnpm/action-setup@v4
+        name: Install pnpm
         with:
-          node-version: 16
-          cache: "npm"
-      - run: npm ci
+          version: 9
+          run_install: false
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: pnpm install
       - run: node main.js
       - run: |
           if ! git diff-index --quiet HEAD --; then
