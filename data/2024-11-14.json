@@ -1383,6 +1383,206 @@
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2nn7lGnkjR",
         "uri": "spotify:playlist:37i9dQZF1DXa2nn7lGnkjR"
       }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+              },
+              "href": "https://api.spotify.com/v1/artists/250b0Wlc5Vk0CoUsaCY84M",
+              "id": "250b0Wlc5Vk0CoUsaCY84M",
+              "name": "JENNIE",
+              "type": "artist",
+              "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M"
+            }
+          ],
+          "available_markets": [
+            "AE",
+            "AM",
+            "AZ",
+            "BD",
+            "BH",
+            "BN",
+            "BT",
+            "CY",
+            "FJ",
+            "FM",
+            "GE",
+            "HK",
+            "ID",
+            "IL",
+            "IN",
+            "IQ",
+            "JO",
+            "JP",
+            "KG",
+            "KH",
+            "KI",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LK",
+            "MH",
+            "MN",
+            "MO",
+            "MV",
+            "MY",
+            "NP",
+            "NR",
+            "OM",
+            "PG",
+            "PH",
+            "PK",
+            "PS",
+            "PW",
+            "QA",
+            "SA",
+            "SB",
+            "SG",
+            "TH",
+            "TJ",
+            "TL",
+            "TO",
+            "TR",
+            "TV",
+            "TW",
+            "UZ",
+            "VN",
+            "VU",
+            "WS"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b"
+          },
+          "href": "https://api.spotify.com/v1/albums/2Joq37Cjv3ZL7M2faHWe3b",
+          "id": "2Joq37Cjv3ZL7M2faHWe3b",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738513170cd3adda304ddfc1dc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028513170cd3adda304ddfc1dc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518513170cd3adda304ddfc1dc",
+              "width": 64
+            }
+          ],
+          "name": "JENNIE Special Single [You & Me]",
+          "release_date": "2023-10-06",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:2Joq37Cjv3ZL7M2faHWe3b"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+            },
+            "href": "https://api.spotify.com/v1/artists/250b0Wlc5Vk0CoUsaCY84M",
+            "id": "250b0Wlc5Vk0CoUsaCY84M",
+            "name": "JENNIE",
+            "type": "artist",
+            "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AM",
+          "AZ",
+          "BD",
+          "BH",
+          "BN",
+          "BT",
+          "CY",
+          "FJ",
+          "FM",
+          "GE",
+          "HK",
+          "ID",
+          "IL",
+          "IN",
+          "IQ",
+          "JO",
+          "JP",
+          "KG",
+          "KH",
+          "KI",
+          "KR",
+          "KW",
+          "KZ",
+          "LA",
+          "LB",
+          "LK",
+          "MH",
+          "MN",
+          "MO",
+          "MV",
+          "MY",
+          "NP",
+          "NR",
+          "OM",
+          "PG",
+          "PH",
+          "PK",
+          "PS",
+          "PW",
+          "QA",
+          "SA",
+          "SB",
+          "SG",
+          "TH",
+          "TJ",
+          "TL",
+          "TO",
+          "TR",
+          "TV",
+          "TW",
+          "UZ",
+          "VN",
+          "VU",
+          "WS"
+        ],
+        "disc_number": 1,
+        "duration_ms": 179164,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "KRA402300041"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6xXCn7H2Yl8SDD6jxo5SpN",
+        "id": "6xXCn7H2Yl8SDD6jxo5SpN",
+        "is_local": false,
+        "name": "You & Me",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/e8662698845423f2ceab6113f15d72d08edef467?cid=03379102237947e7880edd3725273386",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6xXCn7H2Yl8SDD6jxo5SpN"
+      },
+      "played_at": "2024-11-14T08:42:41.948Z",
+      "context": {
+        "type": "playlist",
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2nn7lGnkjR",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa2nn7lGnkjR"
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXa2nn7lGnkjR"
+      }
     }
   ]
 }
